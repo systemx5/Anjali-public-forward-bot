@@ -1,4 +1,4 @@
-# Public-Forward-Bot
+# Anjali-Public-Forward-Bot
 
 # Features 👇
 * Bot to forward messages from one channel to other without admin permission in source channel.
@@ -8,7 +8,7 @@
 * For Public Channels Bot is used to forward.
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Greymattersbot/public-forward-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/systemx5/Anjali-public-forward-bot)
 
 ### Variables
 
@@ -24,7 +24,7 @@
 
 ### VPS deploying -
 ``` 
-git clone https://github.com/Mokshb6458/public-forward-bot && cd public-forward-bot
+git clone https://github.com/systemx5/Anjali-public-forward-bot && cd anjali-public-forward-bot
 ```
 ```
 apt install python3-pip
