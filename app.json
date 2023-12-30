@@ -8,14 +8,14 @@
     "forward",
     "bot"
   ],
-  "repository": "https://github.com/Greymattersbot/public-forward-bot",
+  "repository": "https://github.com/systemx5/Anjali-public-forward-bot",
   "env": {
     "API_ID": {
-      "description": "Get this value from https://my.telegram.org or @UseTGXBot",
+      "description": "Get this value from https://my.telegram.org or @QUEENx_GOD",
       "value": ""
     },
     "API_HASH": {
-      "description": "Get this value from https://my.telegram.org or @UseTGXBot",
+      "description": "Get this value from https://my.telegram.org or @QUEENx_GOD",
       "value": ""
     },
     "BOT_TOKEN": {
@@ -49,7 +49,7 @@
       "value": ""
     },
     "SESSION": {
-      "description": "Pyrogram string Session https://t.me/string_session_generator_658_bot",
+      "description": "Pyrogram string Session https://t.me/+fztuVtP1frMwYTk1",
       "value": ""
     }
   },
